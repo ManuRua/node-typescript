@@ -1,0 +1,28 @@
+{
+  "name": "setup-node-typescript",
+  "version": "1.0.0",
+  "description": "Setting Up a Node Project With Typescript",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuRua/setup-node-typescript.git"
+  },
+  "author": "Manuel Rúa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManuRua/setup-node-typescript/issues"
+  },
+  "homepage": "https://github.com/ManuRua/setup-node-typescript#readme",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
