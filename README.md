@@ -1,7 +1,8 @@
-# Setup Node - TypeScript
+# NodeJS - TypeScript
 
-Setting Up a Node Project With TypeScript
+NodeJS Project with TypeScript
 
 Sources:
 
-- https://scotch.io/tutorials/setting-up-a-node-project-with-typescript
+- Setting Up a Node Project With TypeScript: https://scotch.io/tutorials/setting-up-a-node-project-with-typescript
+- Using ESLint and Prettier in a TypeScript Project: https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb
