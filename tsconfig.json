@@ -60,7 +60,7 @@
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
   "lib": ["es2015"],
-  "files": ["./node_modules/@types/mocha/index.d.ts", "./node_modules/@types/node/index.d.ts"],
+  // "files": ["./node_modules/@types/mocha/index.d.ts", "./node_modules/@types/node/index.d.ts"],
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules"]
 }
