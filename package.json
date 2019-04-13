@@ -1,7 +1,7 @@
 {
-  "name": "setup-node-typescript",
+  "name": "node-typescript",
   "version": "1.0.0",
-  "description": "Setting Up a Node Project With Typescript",
+  "description": "NodeJS Project with TypeScript",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
