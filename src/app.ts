@@ -10,11 +10,14 @@ class App {
 
   private mountRoutes (): void {
     const router = express.Router();
-    router.get('/', (req, res): void => {
-      res.json({
-        message: 'Hello World!'
-      });
-    });
+    router.get(
+      '/',
+      (req, res): void => {
+        res.json({
+          message: 'Hello World!',
+        });
+      },
+    );
     this.express.use('/', router);
   }
 }
